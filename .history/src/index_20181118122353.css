@@ -26,7 +26,6 @@ body {
 .note {
     height: 150px;
     width: 150px;
-    background-color: greenyellow;
     margin: 2px 0;
     position: relative;
     cursor: -webkit-grab;
